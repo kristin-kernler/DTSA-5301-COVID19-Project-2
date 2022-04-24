@@ -3,7 +3,7 @@ DTSA 5301 Final Project 2: Reproducible Report on COVID19 Data
 
 ## Project Purpose
 
-This is the Final Project for the course DTSA 5301: Data Science as a Field. We are demonstrating our ability to complete all steps in the data science process by producing a report on the COVID19 data set from the John Hopkins github site.
+This is the Final Project for the course DTSA 5301: Data Science as a Field. We are demonstrating our ability to complete all steps in the data science process by creating a reproducible report on the COVID19 data set from the John Hopkins GitHub site.
 
 ## Project Instructions
 Import, tidy and analyze the COVID19 dataset from the Johns Hopkins github site. This is the same dataset I used in class. Feel free to repeat and reuse what I did if you want to.  Be sure your project is reproducible and contains some visualization and analysis that is unique to your project. You may use the data to do any analysis that is of interest to you. You should include at least two visualizations and one model.  Be sure to identify any bias possible in the data and in your analysis.  
@@ -31,5 +31,5 @@ __Source__ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_
 
 ## Question of Interest
 
-- Which Wisconsin county has the highest mortality rate and which Wisconsin county has the lowest mortality rate?
-- Can we predict future Wisconsin COVID19 cases and deaths with a Linear Regression Model?
+- Which Wisconsin county has the highest COVID19 mortality rate and which Wisconsin county has the lowest COVID19 mortality rate?
+- Can we predict future COVID19 cases and deaths in Wisconsin with a Linear Regression Model?
